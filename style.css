@@ -1,0 +1,25 @@
+table {
+    border-collapse:collapse
+}
+td, th {
+    border:1px solid #ddd;
+    padding:8px;
+}
+
+#form {
+    margin-top: 50px;
+}
+
+#form input {
+    width: 300px;
+    height: 100px;
+}
+
+#footer {
+    margin-top: 200px;
+    border-top: solid 1px blue;
+}
+
+.visibilityClass {
+    visibility: hidden;
+}
